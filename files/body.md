@@ -57,5 +57,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/caoancap/readme-base/blob/master/images/animated.svg" />
+  <img src="https://github.com/caoancap/readme-base/blob/main/images/animated.svg" />
 </div>
