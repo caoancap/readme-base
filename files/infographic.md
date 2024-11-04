@@ -17,8 +17,8 @@
       &ensp;
       <a title="Top Languages" href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caoancap/caoancap/master/top-languages-dark.svg">
-          <img src="https://raw.githubusercontent.com/caoancap/caoancap/master/top-languages.svg" alt="Top Languages">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caoancap/caoancap/main/top-languages-dark.svg">
+          <img src="https://raw.githubusercontent.com/caoancap/caoancap/main/top-languages.svg" alt="Top Languages">
         </picture><!--
    --></a>
       &ensp;
