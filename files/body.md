@@ -36,6 +36,8 @@
 ---
 
 <div align="justify">
+  <img title="Godot" alt="Godot" src="https://img.shields.io/badge/Godot-333639?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
+  <img title="Unity" alt="Unity" src="https://img.shields.io/badge/Unity-EEE?style=for-the-badge&logo=unity&logoColor=black" />
   <img title="Windows" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img title="Linux" alt="Linux" src="https://img.shields.io/badge/LINUX-185886?style=for-the-badge&logo=linux&logoColor=55A7CC" />
   <img title="Ubuntu" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
@@ -50,8 +52,6 @@
   <img title="Markdown" alt="Markdown" src="https://img.shields.io/badge/Markdown-2F9FE5?style=for-the-badge&logo=markdown&logoColor=white" />
   <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=EC912D" />
   <img title="Azure" alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img title="Godot" alt="Godot" src="https://img.shields.io/badge/Godot-333639?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
-  <img title="Unity" alt="Unity" src="https://img.shields.io/badge/Unity-EEE?style=for-the-badge&logo=unity&logoColor=black" />
 </div>
 
 ---
