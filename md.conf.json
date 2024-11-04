@@ -1,0 +1,163 @@
+{
+  "input_folder": "files",
+  "output_folder": "out",
+  "template_files": [
+    {
+      "name": "intro.pt",
+      "input": "intro.md",
+      "parameters": [
+        {
+          "name": "hello",
+          "value": "Olá"
+        },
+        {
+          "name": "intro",
+          "value": "Eu sou o desenvolvedor de jogos Cachorro Anarquista."
+        },
+        {
+          "name": "projectsIntro",
+          "value": "Para conhecer meus projetos, por favor acesse o site:"
+        }
+      ],
+      "output": "intro.pt.md"
+    },
+    {
+      "name": "infographic.pt",
+      "input": "infographic.md",
+      "parameters": [
+        {
+          "name": "infographic",
+          "value": "Infográfico"
+        }
+      ],
+      "output": "infographic.pt.md"
+    },
+    {
+      "name": "trailer.pt",
+      "input": "trailer.md",
+      "parameters": [
+        {
+          "name": "version",
+          "value": "ENV_VAR:VERSION"
+        },
+        {
+          "name": "builtWith",
+          "value": "Montado utilizando:"
+        }
+      ],
+      "output": "trailer.pt.md"
+    },
+    {
+      "name": "intro.en",
+      "input": "intro.md",
+      "parameters": [
+        {
+          "name": "hello",
+          "value": "Hi there"
+        },
+        {
+          "name": "intro",
+          "value": "I am the game developer Cachorro Anarquista."
+        },
+        {
+          "name": "projectsIntro",
+          "value": "To know my projects, please visit the website:"
+        }
+      ],
+      "output": "intro.en.md"
+    },
+    {
+      "name": "infographic.en",
+      "input": "infographic.md",
+      "parameters": [
+        {
+          "name": "infographic",
+          "value": "Infographic"
+        }
+      ],
+      "output": "infographic.en.md"
+    },
+    {
+      "name": "trailer.en",
+      "input": "trailer.md",
+      "parameters": [
+        {
+          "name": "version",
+          "value": "ENV_VAR:VERSION"
+        },
+        {
+          "name": "builtWith",
+          "value": "Built with:"
+        }
+      ],
+      "output": "trailer.en.md"
+    },
+    {
+      "name": "intro.es",
+      "input": "intro.md",
+      "parameters": [
+        {
+          "name": "hello",
+          "value": "Hola"
+        },
+        {
+          "name": "intro",
+          "value": "Soy el desarrollador del juego Cachorro Anarquista."
+        },
+        {
+          "name": "projectsIntro",
+          "value": "Para conocer mis proyectos, por favor visite el sitio web:"
+        }
+      ],
+      "output": "intro.es.md"
+    },
+    {
+      "name": "infographic.es",
+      "input": "infographic.md",
+      "parameters": [
+        {
+          "name": "infographic",
+          "value": "Infografía"
+        }
+      ],
+      "output": "infographic.es.md"
+    },
+    {
+      "name": "trailer.es",
+      "input": "trailer.md",
+      "parameters": [
+        {
+          "name": "version",
+          "value": "ENV_VAR:VERSION"
+        },
+        {
+          "name": "builtWith",
+          "value": "Construido usando:"
+        }
+      ],
+      "output": "trailer.es.md"
+    }
+  ],
+  "files": [
+    {
+      "name": "pt",
+      "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.pt.md"],
+      "output": "README.pt.md"
+    },
+    {
+      "name": "en",
+      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.en.md"],
+      "output": "README.en.md"
+    },
+    {
+      "name": "es",
+      "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.es.md"],
+      "output": "README.es.md"
+    },
+    {
+      "name": "main",
+      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.en.md"],
+      "output": "README.md"
+    }
+  ]
+}
