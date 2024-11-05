@@ -16,7 +16,7 @@
         },
         {
           "name": "projectsIntro",
-          "value": "Para conhecer meus projetos, por favor acesse o site:"
+          "value": "Para conhecer meus projetos, por favor acesse os sites:"
         }
       ],
       "output": "intro.pt.md"
@@ -61,7 +61,7 @@
         },
         {
           "name": "projectsIntro",
-          "value": "To know my projects, please visit the website:"
+          "value": "To know my projects, please visit the websites:"
         }
       ],
       "output": "intro.en.md"
@@ -106,7 +106,7 @@
         },
         {
           "name": "projectsIntro",
-          "value": "Para conocer mis proyectos, por favor visite el sitio web:"
+          "value": "Para conocer mis proyectos, por favor visite los sitios web:"
         }
       ],
       "output": "intro.es.md"
