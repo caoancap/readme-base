@@ -2,4 +2,6 @@
 
 {{intro}}
 
-{{projectsIntro}} https://caoancap.github.io https://cao-ancap.github.io/web-games/
+{{projectsIntro}}<br/>
+https://caoancap.github.io <br/>
+https://cao-ancap.github.io/web-games/
