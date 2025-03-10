@@ -5,5 +5,13 @@
   "user_id": 57179560,
   "orgs_login": ["cao-ancap"],
   "main_color": "indigo",
-  "search_color": "amber"
+  "search_color": "amber",
+  "group_languages": true,
+  "language_family_config": {
+    "C": "C/C++/Zig",
+    "C++": "C/C++/Zig",
+    "JavaScript": "JavaScript/TypeScript",
+    "TypeScript": "JavaScript/TypeScript",
+    "Zig": "C/C++/Zig"
+  }
 }
